@@ -1,0 +1,136 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 59,
+            "value": "#Eliminar los juegos registrados"
+          },
+          {
+            "line": 60,
+            "value": "#@ignore"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 2015245948,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BrowserSetUpAndTearDown.setUpBrowser(Scenario)"
+            }
+          }
+        ],
+        "line": 61,
+        "name": "Eliminar juego",
+        "description": "",
+        "id": "proyecto-velocity;eliminar-juego",
+        "after": [
+          {
+            "result": {
+              "duration": 792937162,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BrowserSetUpAndTearDown.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5708584738,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "Navego a gamedb",
+            "match": {
+              "location": "TestCases.navego_a_gamedb()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1614305160,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "entro a Login",
+            "match": {
+              "location": "TestCases.entro_a_Login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2977716425,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "Ingreso con un usuario registrado:",
+            "match": {
+              "location": "TestCases.ingreso_como_user_registrado(String,String\u003e\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "user",
+                  "pass"
+                ],
+                "line": 65
+              },
+              {
+                "cells": [
+                  "test@example.com",
+                  "test"
+                ],
+                "line": 66
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1598991216,
+              "status": "passed"
+            },
+            "line": 67,
+            "name": "Entro a la seccion Games",
+            "match": {
+              "location": "TestCases.entro_a_la_seccion_Games()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1649404134,
+              "status": "passed"
+            },
+            "line": 68,
+            "name": "Valido si hay juego registrado con accion \u003c2\u003e:",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 43
+                }
+              ],
+              "location": "TestCases.valido_si_hay_juego_registrado_con_accion(int)"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Proyecto Velocity",
+    "description": "",
+    "id": "proyecto-velocity",
+    "keyword": "Feature",
+    "uri": "Game.feature"
+  }
+]

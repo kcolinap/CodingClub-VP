@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[$$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Eliminar juego    $$$$$$$$$$$$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[operating system: Windows 7]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------- Launching Chrome Browser on Local machine -----------------------]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Eliminar juego    $$$$$$$$$$$$$$$$$$$$$$$]]>
+    </line>
+  </reporter-output>
+  <suite name="runnerFiles.Regression_Core_Game" duration-ms="16728" started-at="2017-03-27T14:27:19Z" finished-at="2017-03-27T14:27:36Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerFiles.Regression_Core_Game@1936f0f5]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Command line test a40adda3-1c96-4e5b-a6cf-cf594cef5fd8" duration-ms="16728" started-at="2017-03-27T14:27:19Z" finished-at="2017-03-27T14:27:36Z">
+      <class name="runnerFiles.Regression_Core_Game">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runnerFiles.Regression_Core_Game@1936f0f5]" name="setUpClass" is-config="true" duration-ms="190" started-at="2017-03-27T10:27:19Z" finished-at="2017-03-27T10:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerFiles.Regression_Core_Game@1936f0f5]" name="feature" duration-ms="16438" started-at="2017-03-27T10:27:20Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-03-27T10:27:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Proyecto Velocity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[$$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Eliminar juego    $$$$$$$$$$$$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[operating system: Windows 7]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------- Launching Chrome Browser on Local machine -----------------------]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Eliminar juego    $$$$$$$$$$$$$$$$$$$$$$$]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runnerFiles.Regression_Core_Game@1936f0f5]" name="tearDownClass" is-config="true" duration-ms="22" started-at="2017-03-27T10:27:36Z" finished-at="2017-03-27T10:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runnerFiles.Regression_Core_Game -->
+    </test> <!-- Command line test a40adda3-1c96-4e5b-a6cf-cf594cef5fd8 -->
+  </suite> <!-- runnerFiles.Regression_Core_Game -->
+</testng-results>

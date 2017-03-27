@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [runnerFiles.Maui_Regression_Core_FeatureRunner]">
+  <test name="Command line test a55ff2ad-d9be-4f3c-8a4c-7fc39d1ed216(failed)">
+    <classes>
+      <class name="runnerFiles.Maui_Regression_Core_FeatureRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- runnerFiles.Maui_Regression_Core_FeatureRunner -->
+    </classes>
+  </test> <!-- Command line test a55ff2ad-d9be-4f3c-8a4c-7fc39d1ed216(failed) -->
+</suite> <!-- Failed suite [runnerFiles.Maui_Regression_Core_FeatureRunner] -->

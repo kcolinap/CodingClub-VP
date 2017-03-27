@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runnerFiles.Regression_Core_Login
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 59.097 sec - in runnerFiles.Regression_Core_Login

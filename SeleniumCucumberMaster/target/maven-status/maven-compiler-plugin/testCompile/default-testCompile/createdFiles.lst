@@ -1,0 +1,5 @@
+runnerFiles\Regression_Core_FeatureRunner.class
+stepDefs\TestCases.class
+runnerFiles\Regression_Core_Login.class
+runnerFiles\Regression_Core_Game.class
+stepDefs\BrowserSetUpAndTearDown.class
